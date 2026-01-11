@@ -26,3 +26,16 @@ Random Forest:
 
 Naive Bayes Classifier:
 - https://youtu.be/O2L2Uv9pdDA?si=v-ZDpAm9o1COBYVg
+
+## Week 2
+Neural Networks
+- https://youtu.be/aircAruvnKk?si=J0_lTDKlC0WOzs-n (**lecs 1-4** for a good intuition on NNs)
+- https://youtu.be/1TmUwRALJW0?si=BI6A4O5DhbxFKcoy (Go through the **whole playlist** to understand the maths behind NNs)
+
+## Week 3
+Introduction to NLP
+- https://youtu.be/6C0sLtw5ctc?si=c5m__TVOSE83klZy (Data preprocessing in NLP)
+- https://youtu.be/vo6gQz5lYRI?si=OIsc6fKpWcblV1yl (Word embeddings: Bow, TF-IDF)
+- https://youtu.be/DDfLc5AHoJI?si=XNGdaY06cd2RgNtu (Other word embedding techniques)
+- https://youtu.be/e9U0QAFbfLI?si=QAwT8ICBgHqdmdwf (Cosine Similarity theory)
+  
